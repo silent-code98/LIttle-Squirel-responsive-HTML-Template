@@ -1,7 +1,7 @@
 # Little Squirel - Educational Responsive HTML Template
 ###### CC
 
-## Template Preview (live link): https://cutt.ly/NmCcXnG
+## Template Preview (live link): https://cutt.ly/lmCvWX5
 
 - CSS Grid
 - CSS Flexbox
